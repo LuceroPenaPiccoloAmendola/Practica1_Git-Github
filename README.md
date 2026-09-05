@@ -18,3 +18,14 @@ Carrera: Ingeniería en Sistemas Computacionales
 
 Esta práctica tiene como objetivo aprender el uso básico de Git y GitHub,
 incluyendo repositorios, commits, ramas y Pull Requests.
+
+
+
+
+
+\## Trabajo en rama
+
+
+
+Este apartado fue agregado trabajando desde la rama cambio-readme.
+
